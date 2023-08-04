@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: calculator
-        image: Calcazcr1.azurecr.io/calulator:latest
+        image: Calcazcr1.azurecr.io/calculator:latest
         ports:
         - containerPort: 80
