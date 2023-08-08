@@ -1,0 +1,8 @@
+rg_name  = "rgaks"
+location = "ukwest"
+//storage_name       = "data_store"
+aks_name           = "azk8scluster1"
+aks_node_pool_name = "aznode1"
+aks_cr_name        = "calcazcr1"
+aks_vm_size        = "Standard_DS2_v2"
+aks_acr_role_defn  = "AcrPull"
